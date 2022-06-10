@@ -1,2 +1,2 @@
-# projeto feito e cima de um template 
-html e css
+# projeto 2° semestre 
+html,css e java 
